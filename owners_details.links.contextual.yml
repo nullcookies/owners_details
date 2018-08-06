@@ -1,0 +1,8 @@
+owners_block.owners_form_edit_form:
+  title: 'Edit owners form'
+  group: owners_details
+  route_name: 'entity.owners_form.edit_form'
+owners_block.owners_form_manage_fields:
+  title: 'Manage fields'
+  group: owners_details
+  route_name: 'entity.owners_message.field_ui_fields'

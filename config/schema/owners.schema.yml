@@ -1,0 +1,7 @@
+owners:
+  type: block_settings
+  label: 'Owners details'
+  mapping:
+    owners_form:
+      type: string
+      label: 'Owners details from'
